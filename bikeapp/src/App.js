@@ -11,7 +11,7 @@ function App() {
       <Linkk/>
      <Routes>
       <Route path='log' element={<Log/>}/>
-      <Route path='/' element={<Dashboard/>}/>
+      <Route path='Dashboard' element={<Dashboard/>}/>
      </Routes>
      
     </div>
